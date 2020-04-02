@@ -9,10 +9,20 @@ Taking one problem, this project began as an effort to study employee data with 
 
 I found such a set in IBM's Developer's page for Data Science. They made a set of employee data freely available for study purposed on Kaggle. 
 
-The data utilized is for study purposes only: the initial set of data was fabricated by IBM for the purposes of providing data for understanding and practicing data science tools & techniques. To this I supplemented actual psychometric data that come from online personality tests. For the purposes of the project, I imagined that the psychometric exams were administered to the employees. In such a fabricated scenario it is unrealistic to suggest that any "TRUE" insights may be derived but nonethless, will provide sufficiently complex data for a machine learning study.
+
 
 However, I was interested in what role psychometrics would play in relation to employees. It is possible to gather psychometric data from potential employees and I wanted to see what sort of infomration could be gathered by using psychometric data to complement the employee data. So for the purpsoses of study, I found an independent set of psychmetric data that enabled me to study patterns of behavior by modeling them. While I will not be able to make preditions based on this data, it nonethlesss affords an opportunity for study.
 
+## Data
+
+### Employee Data: 1400 Employees, 41 data points for each
+The data utilized is for study purposes only: the initial set of data was fabricated by IBM for the purposes of providing data for understanding and practicing data science tools & techniques. 
+
+
+### Psychometric Data:  19,000 respondents, 50 questions answered by each
+To this I supplemented actual psychometric data that come from online personality tests. For the purposes of the project, I imagined that the psychometric exams were administered to the employees. In such a fabricated scenario it is unrealistic to suggest that any "TRUE" insights may be derived but nonethless, will provide sufficiently complex data for a machine learning study.
+
+Psychometrics, commonly known as personality tests, have antecedents going back to the ancient world before the common era.  
 
 
 
