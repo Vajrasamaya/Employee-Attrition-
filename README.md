@@ -22,4 +22,10 @@ The data utilized is for study purposes only: the initial set of data was fabric
 ### Psychometric Data:  19,000 respondents, 50 questions answered by each
 To this I supplemented actual psychometric data that come from online personality tests. For the purposes of the project, I imagined that the psychometric exams were administered to the employees. In such a fabricated scenario it is unrealistic to suggest that any "TRUE" insights may be derived but nonetheless, will provide sufficiently complex data for a machine learning study.
 
-Psychometrics, commonly known as personality tests, have antecedents going back to the ancient world before the common era.  
+Psychometrics, commonly known as personality tests, have antecedents going back to the ancient world before the common era.  There are many kinds of psychometric exams.  Of those, I elected a very established model called the Big Five Personality Test, also known as the O.C.E.A.N test.  The Open Source Psychometrics Project (https://openpsychometrics.org/tests/IPIP-BFFM/) describes the test as follows:
+
+"Background
+The big five personality traits are the best accepted and most commonly used model of personality in academic psychology. If you take a college course in personality psychology, this is what you will learn about. The big five come from the statistical study of responses to personality items. Using a technique called factor analysis researchers can look at the responses of people to hundreds of personality items and ask the question "what is the best was to summarize an individual?". This has been done with many samples from all over the world and the general result is that, while there seem to be unlimited personality variables, five stand out from the pack in terms of explaining a lot of a persons answers to questions about their personality: extraversion, neuroticism, agreeableness, conscientiousness and openness to experience. The big-five are not associated with any particular test, a variety of measures have been developed to measure them. This test uses the Big-Five Factor Markers from the International Personality Item Pool, developed by Goldberg (1992).
+
+Procedure
+The test consists of fifty items that you must rate on how true they are about you on a five point scale where 1=Disagree, 3=Neutral and 5=Agree. It takes most people 3-8 minutes to complete."
