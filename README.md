@@ -29,3 +29,7 @@ The big five personality traits are the best accepted and most commonly used mod
 
 Procedure
 The test consists of fifty items that you must rate on how true they are about you on a five point scale where 1=Disagree, 3=Neutral and 5=Agree. It takes most people 3-8 minutes to complete."
+
+
+### EDA
+The following are some at-a-glance information visualized using Plotly.
