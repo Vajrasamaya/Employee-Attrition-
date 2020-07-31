@@ -1,4 +1,7 @@
 # The Impact of Psychometric Factors on Employee Attrition
+
+![](Images/four_humours.png)
+
 ## Introduction
 
 The Human Resources Function has changed.  Beginning in the previous century, HR functioned as an administrative center, focusing on the management of personnel recruiting, onboarding, compensation and termination of employees.  
