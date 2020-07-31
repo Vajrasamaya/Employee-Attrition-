@@ -37,6 +37,12 @@ The test consists of fifty items that you must rate on how true they are about y
 ### EDA
 The following are some at-a-glance information visualized using Plotly.
 
+#### Age
 ![](Images/EDA/employee_age.png)
 
 ![](Images/EDA/satisfaction_by_age.png)
+
+#### Gender
+![](Images/EDA/Count_Gender.png)
+
+![](Images/EDA/attrition_Gender.png)
