@@ -45,4 +45,4 @@ The following are some at-a-glance information visualized using Plotly.
 #### Gender
 ![](Images/EDA/Count_Gender.png)
 
-![](Images/EDA/attrition_Gender.png)
+![](Images/EDA/attrition_gender.png)
