@@ -8,7 +8,21 @@ The Human Resources Function has changed.  Beginning in the previous century, HR
 
 During the 1970's, companies began to face a more competitive climate fostered by increased globalization, technological innovation and business deregulation.  In such a competitive climate there was a greater awareness of how attracting the right employees and retaining them, substantially impacts performance.  Beginning in the early years of the 20th century, there was an increased awareness that HR must substantially change from viewing employees not just as a major cost (which of course they are); but as a generator of revenue for which greater investment was crucial.  In order to realize harness the potential of Human Capital, It was seen that HR lagged other business areas such as marketing and finance in the adaptation of data analysis as well as data modeling for the purposes of prediction and classification. These are areas that I am very much interested in studying and to which this project is addressed.
 
-Taking one problem, this project began as an effort to study employee data with an eye to determining whether we may predict employee attrition from Psychometric characteristics.  This project was complicated by the fact that generally speaking, employee data is confidential.  As such, the only I way I could proceed was to employ a realistic looking but manufactured data set.  
+Taking one problem, this project began as an effort to study employee data with an eye to determining whether we may predict employee attrition from Psychometric characteristics.  
+
+## The Onboarding Process
+![](Images/onbarding_process.png)
+Employee attrition represents a high cost for a company for a number of reasons:
+  * It's expensive in terms of the time it takes to train new employees as well as the cost of recruiting.
+  * Attrition impacts productivity
+  * Impacts profit
+  * Atrrition represents a loss of on-the-job expertise
+  
+
+
+
+
+This project was complicated by the fact that generally speaking, employee data is confidential.  As such, the only I way I could proceed was to employ a realistic looking but manufactured data set.  
 
 I found such a set in IBM's Developer's page for Data Science. They made a set of employee data freely available for study purposed on Kaggle.
 
