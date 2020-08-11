@@ -11,16 +11,17 @@ During the 1970's, companies began to face a more competitive climate fostered b
 Taking one problem, this project began as an effort to study employee data with an eye to determining whether we may predict employee attrition from Psychometric characteristics.  
 
 ## The Onboarding Process
-![](Images/onbarding_process.png)
+![](Images/onboarding.png)
+
 Employee attrition represents a high cost for a company for a number of reasons:
   * It's expensive in terms of the time it takes to train new employees as well as the cost of recruiting.
   * Attrition impacts productivity
   * Impacts profit
-  * Atrrition represents a loss of on-the-job expertise
+  * Attrition represents a loss of on-the-job expertise
 
 
 
-
+## Data
 
 This project was complicated by the fact that generally speaking, employee data is confidential.  As such, the only I way I could proceed was to employ a realistic looking but manufactured data set.  
 
@@ -30,16 +31,21 @@ I found such a set in IBM's Developer's page for Data Science. They made a set o
 
 However, I was interested in what role psychometrics would play in relation to employees. It is possible to gather psychometric data from potential employees and I wanted to see what sort of information could be gathered by using psychometric data to complement the employee data. So for the purposes of study, I found an independent set of psychometric data that enabled me to study patterns of behavior by modeling them. While I will not be able to make predictions based on this data, it nonetheless affords an opportunity for study.
 
-## Data
+
 
 ### Employee Data: 1400 Employees, 41 data points for each
 The data utilized is for study purposes only: the initial set of data was fabricated by IBM for the purposes of providing data for understanding and practicing data science tools & techniques. The Employee Data was found on Kaggle: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 
 ### Psychometric Data:  19,000 respondents, 50 questions answered by each
+![](Images/big_five_test.png)
+
 To this I supplemented actual psychometric data that come from online personality tests. For the purposes of the project, I imagined that the psychometric exams were administered to the employees. In such a fabricated scenario it is unrealistic to suggest that any "TRUE" insights may be derived but nonetheless, will provide sufficiently complex data for a machine learning study.
 
 Psychometrics, commonly known as personality tests, have antecedents going back to the ancient world before the common era.  There are many kinds of psychometric exams.  Of those, I elected a very established model called the Big Five Personality Test, also known as the O.C.E.A.N test.  The Open Source Psychometrics Project (https://openpsychometrics.org/tests/IPIP-BFFM/) describes the test as follows:
+
+![](Images/big_five.png)
+
 
 "Background
 The big five personality traits are the best accepted and most commonly used model of personality in academic psychology. If you take a college course in personality psychology, this is what you will learn about. The big five come from the statistical study of responses to personality items. Using a technique called factor analysis researchers can look at the responses of people to hundreds of personality items and ask the question "what is the best was to summarize an individual?". This has been done with many samples from all over the world and the general result is that, while there seem to be unlimited personality variables, five stand out from the pack in terms of explaining a lot of a persons answers to questions about their personality: extraversion, neuroticism, agreeableness, conscientiousness and openness to experience. The big-five are not associated with any particular test, a variety of measures have been developed to measure them. This test uses the Big-Five Factor Markers from the International Personality Item Pool, developed by Goldberg (1992).
