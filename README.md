@@ -11,7 +11,7 @@ During the 1970's, companies began to face a more competitive climate fostered b
 Taking one problem, this project began as an effort to study employee data with an eye to determining whether we may predict employee attrition from Psychometric characteristics.  
 
 ## The Onboarding Process
-![alt text](Images/onbarding_process.png)
+![alt text](Images/onbarding_process)
 Employee attrition represents a high cost for a company for a number of reasons:
   * It's expensive in terms of the time it takes to train new employees as well as the cost of recruiting.
   * Attrition impacts productivity
