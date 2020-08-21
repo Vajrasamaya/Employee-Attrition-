@@ -2,6 +2,9 @@
 
 ![](Images/four_humours.png)
 
+### NOTE: TO view jupyter notebook html based content fully rendered, please use the nbviewer link:
+https://nbviewer.jupyter.org/github/Vajrasamaya/Psychometric-Contributors-to-Employee-Attrition/tree/master/
+
 ## Introduction
 
 The Human Resources Function has changed.  Beginning in the previous century, HR functioned as an administrative center, focusing on the management of personnel recruiting, onboarding, compensation and termination of employees.  
@@ -66,3 +69,9 @@ The following are some at-a-glance information visualized using Plotly.
 ![](Images/EDA/Count_Gender.png)
 
 ![alt text](Images/EDA/attrition_gender.png)
+
+#### Distance
+![alt text](Images/EDA/count_distance.png)
+
+
+![alt text](Images/EDA/attrition_by_distance.png)
