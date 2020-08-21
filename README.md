@@ -2,7 +2,7 @@
 
 ![](Images/four_humours.png)
 
-### NOTE: TO view jupyter notebook html based content fully rendered, please use the nbviewer link:
+### NOTE: To view jupyter notebook html based content fully rendered, please use the nbviewer link:
 https://nbviewer.jupyter.org/github/Vajrasamaya/Psychometric-Contributors-to-Employee-Attrition/tree/master/
 
 ## Introduction
