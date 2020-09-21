@@ -75,3 +75,12 @@ The following are some at-a-glance information visualized using Plotly.
 
 
 ![alt text](Images/EDA/attrition_by_distance.png)
+
+### Modeling
+As mentioned previously, for the purposes of study I used psychometric data that was not taken from the employees.  Consequently, no meaningful prediction could be derived from the psychometrics that would be meaningful. No employee data could be considered the dependent variable.  Therefor, I found it more appropriate to consider this from the point of view of an unsupervised learning model where we could explore the data to see what emerges.  The five categories yield ten polarities:
+
+O- Openness: Openness vs. Closedness to experience.
+C- Concientiousness: Conscientiousness vs. Lack of Direction
+E- Extraversion: Extroversion vs. Introversion
+A- Agreeableness: Agreeableness vs. Antagonism
+N- Neuroticism: Neuroticism vs. Emotional Stability
