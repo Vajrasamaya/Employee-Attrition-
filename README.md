@@ -79,7 +79,7 @@ The following are some at-a-glance information visualized using Plotly.
 ### Modeling
 As mentioned previously, for the purposes of study I used psychometric data that was not taken from the employees.  Consequently, no meaningful prediction could be derived from the psychometrics that would be meaningful. No employee data could be considered the dependent variable.  Therefor, I found it more appropriate to consider this from the point of view of an unsupervised learning model where we could explore the data to see what emerges.  I utilized clustering by k-means to gain understandig of the relaitve groupings of the data.  In determining the number of groupings to cluster, I used the elbow method for measuring distortion:
 
-![](Images/EDA/Elbow_method.png)
+![](Images/Elbow_method.png)
 
 
 
