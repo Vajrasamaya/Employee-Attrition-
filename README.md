@@ -105,3 +105,5 @@ A- Agreeableness vs. Antagonism: Trust (forgiving), Straigthforwardness (not dem
 ![](Images/Overlayed_histograms/Agreeableness_Score.png)
 
 N- Neuroticism vs. Emotional Stability: Anxiety (tense), Angry hostility (irritable), Depression (not contented), Self-counsciousness (shy), Impulsiveness (moody), Vulnerability (not self-confident)
+
+![](Images/Overlayed_histograms/Agreeableness_Score.png)
