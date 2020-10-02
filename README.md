@@ -101,4 +101,7 @@ E- Extraversion vs. Introversion: Gregariousness (sociable), Assertiveness (forc
 
 A- Agreeableness vs. Antagonism: Trust (forgiving), Straigthforwardness (not demanding), Altruism (warm), Compliance (not stubborn), Modesty (not a show-off), Tender-mondedness (sympathetic)
 
+
+![](Images/Overlayed_histograms/Agreeableness_Score.png)
+
 N- Neuroticism vs. Emotional Stability: Anxiety (tense), Angry hostility (irritable), Depression (not contented), Self-counsciousness (shy), Impulsiveness (moody), Vulnerability (not self-confident)
