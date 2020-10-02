@@ -93,6 +93,8 @@ O- Openness vs. Closedness to Experience: Ideas (curious), Fantasy (imaginative)
 
 C- Conscientiousness vs. lack of Direction: Competence (efficient), Order (organized), Dutifulness (not careless), Achievement striving (thorough), Self-discipline (not lazy), Deliberation (not impulsive)
 
+![](Images/Overlayed_histograms/Conscientiousness_Score.png)
+
 E- Extraversion vs. Introversion: Gregariousness (sociable), Assertiveness (forceful), Activity (energetic), Excitement-seeking (adventurous), Positive Emotions (enthusiastic), Warmth (outgoing)
 
 A- Agreeableness vs. Antagonism: Trust (forgiving), Straigthforwardness (not demanding), Altruism (warm), Compliance (not stubborn), Modesty (not a show-off), Tender-mondedness (sympathetic)
