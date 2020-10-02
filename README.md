@@ -97,6 +97,8 @@ C- Conscientiousness vs. lack of Direction: Competence (efficient), Order (organ
 
 E- Extraversion vs. Introversion: Gregariousness (sociable), Assertiveness (forceful), Activity (energetic), Excitement-seeking (adventurous), Positive Emotions (enthusiastic), Warmth (outgoing)
 
+![](Images/Overlayed_histograms/Extraversion_Score.png)
+
 A- Agreeableness vs. Antagonism: Trust (forgiving), Straigthforwardness (not demanding), Altruism (warm), Compliance (not stubborn), Modesty (not a show-off), Tender-mondedness (sympathetic)
 
 N- Neuroticism vs. Emotional Stability: Anxiety (tense), Angry hostility (irritable), Depression (not contented), Self-counsciousness (shy), Impulsiveness (moody), Vulnerability (not self-confident)
