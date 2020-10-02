@@ -83,15 +83,18 @@ As mentioned previously, for the purposes of study I used psychometric data that
 
 
 
-
+The Five factors model is open named the OCEAN model, after the first letter of each of the five traits. Here I'll describe those along with their correlated traits:
 The five categories yield ten polarities:
 
-O- Openness: Openness vs. Closedness to experience.
+O- Openness vs. Closedness to Experience: Ideas (curious), Fantasy (imaginative), Aesthetics (artistic), Actions (wide interests), Feelings,(excitable), Values     (unconventional)
 
-C- Concientiousness: Conscientiousness vs. Lack of Direction
+![](Images/Overlayed_histograms/Openness_Score.png)
 
-E- Extraversion: Extroversion vs. Introversion
 
-A- Agreeableness: Agreeableness vs. Antagonism
+C- Conscientiousness vs. lack of Direction: Competence (efficient), Order (organized), Dutifulness (not careless), Achievement striving (thorough), Self-discipline (not lazy), Deliberation (not impulsive)
 
-N- Neuroticism: Neuroticism vs. Emotional Stability
+E- Extraversion vs. Introversion: Gregariousness (sociable), Assertiveness (forceful), Activity (energetic), Excitement-seeking (adventurous), Positive Emotions (enthusiastic), Warmth (outgoing)
+
+A- Agreeableness vs. Antagonism: Trust (forgiving), Straigthforwardness (not demanding), Altruism (warm), Compliance (not stubborn), Modesty (not a show-off), Tender-mondedness (sympathetic)
+
+N- Neuroticism vs. Emotional Stability: Anxiety (tense), Angry hostility (irritable), Depression (not contented), Self-counsciousness (shy), Impulsiveness (moody), Vulnerability (not self-confident)
