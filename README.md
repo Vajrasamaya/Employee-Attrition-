@@ -77,11 +77,11 @@ The following are some at-a-glance information visualized using Plotly.
 ![alt text](Images/EDA/attrition_by_distance.png)
 
 ### Modeling
-As mentioned previously, for the purposes of study I used psychometric data that was not taken from the employees.  Consequently, no meaningful prediction could be derived from the psychometrics that would be meaningful. No attribute from the employee data could be considered the dependent variable. While I would like the feature "Employee Attrition" to be the dependent variable, this wasn't possible.  Consequently,  Therefore, I found it more appropriate to consider this from the point of view of an unsupervised learning model where we could explore the data to see what emerges.  I utilized clustering by k-means to gain understandig of the relaitve groupings of the data.  In determining the number of groupings to cluster, I used the elbow method for measuring distortion:
+As mentioned previously, for the purposes of study I used psychometric data that was not taken from the employees.  Consequently, no meaningful prediction could be derived from the psychometrics that would be meaningful. No attribute from the employee data could be considered the dependent variable. While I would like the feature "Employee Attrition" to be the dependent variable, this wasn't possible.  Consequently, instead of thinking about this data as a prediction problem, I found it more appropriate to consider this from the point of view of an unsupervised learning model where we could explore the data to see what emerges.  I utilized clustering by k-means to gain understanding of the relative groupings of the data.  In determining the number of groupings to cluster, I used the elbow method for measuring distortion:
 
 ![](Images/Elbow_method.png)
 
-
+From this, we can see that the only drop in distortion is at x =  2; while it's not particularly pronounced, it fits with the data we are clustering.  With each of the psychometric categories, we have a relative pair of opposites; for example, for the category "Extroversion", we can tend towards introversion or extroversion.  So it makes sense that there would be two clusters for each psychometric categories.  
 
 The Five factors model is open named the OCEAN model, after the first letter of each of the five traits. Here I'll describe those along with their correlated traits:
 The five categories yield ten polarities:
